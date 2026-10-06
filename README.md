@@ -1,53 +1,55 @@
 <a id="top"></a>
 
-<!-- ===== BANNIÈRE ===== -->
+<!-- ===== BANNIÈRE (nuit · torii · sakura) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mayron&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20Bac%2B5&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,55:bc002d,100:ffb7c5&height=210&section=header&text=Mayron&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20Bac%2B5&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="banner"/>
 </p>
 
-<!-- ===== TEXTE ANIMÉ ===== -->
+<!-- ===== TEXTE ANIMÉ (japonais + français) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+en+cybers%C3%A9curit%C3%A9+(Bac%2B5);Pentest+%C2%B7+Blue+Team+%C2%B7+Automatisation;Bas%C3%A9+%C3%A0+Aix-en-Provence" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=20&pause=1300&color=FF6B8B&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Mayron%E3%81%A7%E3%81%99;%C3%89l%C3%A8ve+ing%C3%A9nieur+en+cybers%C3%A9curit%C3%A9+(Bac%2B5);%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+%C2%B7+Pentest+%C2%B7+Blue+Team;Bas%C3%A9+%C3%A0+Aix-en-Provence" alt="typing"/>
 </p>
 
-<!-- ===== CONTACTS (cliquables) ===== -->
+<!-- ===== CONTACTS ===== -->
 <p align="center">
-  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://tryhackme.com/p/USER"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
-  <a href="https://USER.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=FF6B8B"/></a>
+  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF6B8B"/></a>
+  <a href="https://tryhackme.com/p/USER"><img src="https://img.shields.io/badge/TryHackMe-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=FF6B8B"/></a>
+  <a href="https://USER.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=FF6B8B"/></a>
 </p>
 
-<!-- ===== MENU DE NAVIGATION ===== -->
+<!-- ===== NAVIGATION ===== -->
 <p align="center">
-  <a href="#-à-propos">À propos</a> •
-  <a href="#-parcours">Parcours</a> •
-  <a href="#️-stack">Stack</a> •
-  <a href="#-projets-phares">Projets</a> •
-  <a href="#-certifications--ctf">Certifs</a> •
-  <a href="#-activité">Activité</a>
+  <a href="#apropos">自己紹介 À propos</a> •
+  <a href="#parcours">経歴 Parcours</a> •
+  <a href="#stack">技術 Stack</a> •
+  <a href="#projets">プロジェクト Projets</a> •
+  <a href="#activite">活動 Activité</a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USER&color=38bdf8&style=flat-square&label=Profile+views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=USER&color=ff6b8b&style=flat-square&label=Profile+views" alt="views"/>
 </p>
 
 <br>
 
-## 🧑‍💻 À propos
+<a id="apropos"></a>
+
+## 🌸 À propos — 自己紹介
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
 - 🎓 Cycle ingénieur **cybersécurité** (Bac+5) — ESAIP
 - 💼 Alternance : _[entreprise / poste]_
 - 🔭 En cours : _[projet principal]_
 - 🌱 J'apprends : _[pentest AD, cloud security, SOC…]_
+- 🗾 Passionné par le **Japon** : _[culture, langue, voyages…]_
 - 📍 Aix-en-Provence, France
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
 ```yaml
 mayron:
@@ -55,7 +57,8 @@ mayron:
   level: "Bac+5"
   location: "Aix-en-Provence"
   focus: ["Pentest", "Blue Team", "Automation"]
-  status: "open to collaborate"
+  passion: "日本 (Japon)"
+  motto: "七転び八起き"
 ```
 
 </td>
@@ -64,7 +67,9 @@ mayron:
 
 <br>
 
-## 🧭 Parcours
+<a id="parcours"></a>
+
+## ⛩️ Parcours — 経歴
 
 ```mermaid
 flowchart LR
@@ -73,15 +78,17 @@ flowchart LR
     C --> D["💼 Alternance<br/>[Entreprise]"]
     D --> E["🎯 Diplôme<br/>[Année]"]
 
-    classDef step fill:#0f2027,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
-    classDef goal fill:#2c5364,stroke:#38bdf8,stroke-width:2px,color:#ffffff;
+    classDef step fill:#1a1a2e,stroke:#ff6b8b,stroke-width:2px,color:#ffffff;
+    classDef goal fill:#bc002d,stroke:#ffb7c5,stroke-width:2px,color:#ffffff;
     class A,B,C,D step;
     class E goal;
 ```
 
 <br>
 
-## 🛠️ Stack
+<a id="stack"></a>
+
+## 🛠️ Stack — 技術
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,c,linux,windows,docker,git,github,vscode&perline=11" alt="stack"/>
@@ -100,10 +107,10 @@ flowchart LR
 | **Défense / SOC** | _[SIEM, EDR…]_ |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=FF6B8B"/>
+  <img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=FF6B8B"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6B8B"/>
+  <img src="https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF6B8B"/>
 </p>
 
 </details>
@@ -125,11 +132,13 @@ flowchart LR
 
 <br>
 
-## 🚀 Projets phares
+<a id="projets"></a>
+
+## 🏯 Projets — プロジェクト
 
 <p align="center">
-  <a href="https://github.com/USER/PROJET_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_1&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/></a>
-  <a href="https://github.com/USER/PROJET_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_2&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/USER/PROJET_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_1&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/USER/PROJET_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_2&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10" width="49%"/></a>
 </p>
 
 <details>
@@ -146,45 +155,32 @@ flowchart LR
 
 <br>
 
-## 🏅 Certifications & CTF
+<a id="activite"></a>
 
-<details open>
-<summary><b>Voir la liste</b></summary>
-<br>
-
-| | |
-|:--:|---|
-| 📜 | _[Certif — ex. eJPT, Security+, TryHackMe SAL1]_ |
-| 🚩 | _[CTF / classement — ex. Top X% TryHackMe, Root-Me N pts]_ |
-
-</details>
-
-<br>
-
-## 📊 Activité
-
-<!-- Serpent animé : nécessite le workflow snake.yml -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USER/USER/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/USER/USER/output/github-snake.svg" alt="snake" width="100%"/>
-  </picture>
-</p>
+## 📊 Activité — 活動
 
 <details>
 <summary><b>📈 Statistiques détaillées</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER&layout=compact&bg_color=1a1a2e&title_color=ff6b8b&text_color=e6e6e6&hide_border=true&border_radius=10" height="165"/>
 </p>
 
 </details>
 
-<p align="right"><a href="#top">⬆ Retour en haut</a></p>
+<br>
+
+<!-- ===== CITATION ===== -->
+<p align="center">
+  <b>七転び八起き</b><br>
+  <sub><i>Nana korobi ya oki — « Tombe sept fois, relève-toi huit. »</i></sub>
+</p>
+
+<p align="right"><a href="#top">⬆ 上へ · Retour en haut</a></p>
 
 <!-- ===== PIED DE PAGE ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=110&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,45:bc002d,100:1a1a2e&height=120&section=footer" width="100%"/>
 </p>
