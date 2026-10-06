@@ -5,9 +5,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,55:bc002d,100:ffb7c5&height=210&section=header&text=Mayron&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20Bac%2B5&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="banner"/>
 </p>
 
-<!-- ===== TEXTE ANIMÉ (japonais + français) ===== -->
+<!-- ===== TEXTE ANIMÉ ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=500&size=20&pause=1300&color=FF6B8B&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Mayron%E3%81%A7%E3%81%99;%C3%89l%C3%A8ve+ing%C3%A9nieur+en+cybers%C3%A9curit%C3%A9+(Bac%2B5);%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3+%C2%B7+Pentest+%C2%B7+Blue+Team;Bas%C3%A9+%C3%A0+Aix-en-Provence" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=FF6B8B&center=true&vCenter=true&width=600&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+en+cybers%C3%A9curit%C3%A9+(Bac%2B5);Pentest+%C2%B7+Blue+Team+%C2%B7+Automatisation;Passionn%C3%A9+par+le+Japon;Bas%C3%A9+%C3%A0+Aix-en-Provence" alt="typing"/>
 </p>
 
 <!-- ===== CONTACTS ===== -->
@@ -20,22 +20,20 @@
 
 <!-- ===== NAVIGATION ===== -->
 <p align="center">
-  <a href="#apropos">自己紹介 À propos</a> •
-  <a href="#parcours">経歴 Parcours</a> •
-  <a href="#stack">技術 Stack</a> •
-  <a href="#projets">プロジェクト Projets</a> •
-  <a href="#activite">活動 Activité</a>
+  <a href="#apropos"><img src="https://img.shields.io/badge/À_propos-bc002d?style=flat-square"/></a>
+  <a href="#parcours"><img src="https://img.shields.io/badge/Parcours-bc002d?style=flat-square"/></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Stack-bc002d?style=flat-square"/></a>
+  <a href="#projets"><img src="https://img.shields.io/badge/Projets-bc002d?style=flat-square"/></a>
+  <a href="#activite"><img src="https://img.shields.io/badge/Activité-bc002d?style=flat-square"/></a>
+  <img src="https://komarev.com/ghpvc/?username=USER&color=ff6b8b&style=flat-square&label=Vues" alt="views"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USER&color=ff6b8b&style=flat-square&label=Profile+views" alt="views"/>
-</p>
-
-<br>
+<!-- séparateur -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
 
 <a id="apropos"></a>
 
-## 🌸 À propos — 自己紹介
+## 🌸 À propos
 
 <table>
 <tr>
@@ -57,19 +55,18 @@ mayron:
   level: "Bac+5"
   location: "Aix-en-Provence"
   focus: ["Pentest", "Blue Team", "Automation"]
-  passion: "日本 (Japon)"
-  motto: "七転び八起き"
+  passion: "Japon"
 ```
 
 </td>
 </tr>
 </table>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
 
 <a id="parcours"></a>
 
-## ⛩️ Parcours — 経歴
+## ⛩️ Parcours
 
 ```mermaid
 flowchart LR
@@ -84,11 +81,11 @@ flowchart LR
     class E goal;
 ```
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
 
 <a id="stack"></a>
 
-## 🛠️ Stack — 技術
+## 🛠️ Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,c,linux,windows,docker,git,github,vscode&perline=11" alt="stack"/>
@@ -130,11 +127,11 @@ flowchart LR
 
 </details>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
 
 <a id="projets"></a>
 
-## 🏯 Projets — プロジェクト
+## 🏯 Projets
 
 <p align="center">
   <a href="https://github.com/USER/PROJET_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_1&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10" width="49%"/></a>
@@ -153,11 +150,11 @@ flowchart LR
 
 </details>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
 
 <a id="activite"></a>
 
-## 📊 Activité — 活動
+## 📊 Activité
 
 <details>
 <summary><b>📈 Statistiques détaillées</b></summary>
@@ -170,17 +167,14 @@ flowchart LR
 
 </details>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
 
-<!-- ===== CITATION ===== -->
+<!-- ===== FIN : signature animée + contact ===== -->
 <p align="center">
-  <b>七転び八起き</b><br>
-  <sub><i>Nana korobi ya oki — « Tombe sept fois, relève-toi huit. »</i></sub>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FFB7C5&center=true&vCenter=true&width=520&lines=Merci+pour+la+visite+%F0%9F%8C%B8;Ouvert+aux+%C3%A9changes+et+opportunit%C3%A9s;Restons+en+contact+%E2%86%93" alt="outro"/>
 </p>
 
-<p align="right"><a href="#top">⬆ 上へ · Retour en haut</a></p>
-
-<!-- ===== PIED DE PAGE ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,45:bc002d,100:1a1a2e&height=120&section=footer" width="100%"/>
+  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/Me_contacter-bc002d?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#top"><img src="https://img.shields.io/badge/↑_Haut_de_page-1a1a2e?style=for-the-badge"/></a>
 </p>
