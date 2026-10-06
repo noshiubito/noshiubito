@@ -68,9 +68,22 @@ Problème résolu et résultat, en une phrase.<br>
   <img src="https://streak-stats.demolab.com?user=USER&locale=fr&hide_border=true&border_radius=12&background=00000000&stroke=30363D&ring=8FB4D9&fire=8FB4D9&currStreakNum=8FB4D9&sideNums=8B949E&currStreakLabel=8FB4D9&sideLabels=8B949E&dates=8B949E" width="80%" alt="série"/>
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/8fb4d9/USER" width="80%" alt="contributions"/>
-</p>
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "pie1": "#8fb4d9", "pie2": "#5d7fa3", "pie3": "#3b5878", "pie4": "#c9d6e3",
+  "pieStrokeColor": "#0d1117", "pieStrokeWidth": "2px",
+  "pieOuterStrokeWidth": "0px",
+  "pieTitleTextSize": "18px", "pieTitleTextColor": "#8b949e",
+  "pieSectionTextColor": "#0d1117", "pieSectionTextSize": "14px",
+  "pieLegendTextColor": "#8b949e", "pieLegendTextSize": "14px"
+}}}%%
+pie showData
+    title Où va mon temps (heures / semaine, estimation)
+    "Pentest & CTF" : 8
+    "Blue Team / SOC" : 6
+    "Automatisation" : 5
+    "Veille & cours" : 4
+```
 
 <br>
 
