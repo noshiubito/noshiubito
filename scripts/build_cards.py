@@ -20,8 +20,8 @@ CONFIG = {
         ("8080/tcp", "automation", "python · bash · powershell"),
     ],
     "projects": [
-        {"name": "SEAL", "desc": "Monitoring SSL/TLS : alerte sur l'expiration des certificats (safe · warning · critical).",
-         "stack": ["SSL/TLS", "Vercel"], "status": "en ligne"},
+        {"name": "S.E.A.L — SSL Checker", "desc": "Outil professionnel de vérification SSL pour entreprises. Chef d'équipe du projet.",
+         "stack": ["Python", "React", "TypeScript", "PostgreSQL"], "status": "en ligne"},
         {"name": "PROJET_2", "desc": "Problème résolu et résultat obtenu, en une ou deux phrases courtes.",
          "stack": ["Bash"], "status": "terminé"},
     ],

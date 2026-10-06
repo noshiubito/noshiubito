@@ -40,8 +40,8 @@
 ### `03` &nbsp;Projets
 
 <p align="center">
-  <a href="https://seal-beta-liart.vercel.app"><img src="./assets/project-1.svg" width="49%" alt="SEAL — monitoring SSL/TLS"/></a>
-  <a href="https://github.com/noshiubito/PROJET_2"><img src="./assets/project-2.svg" width="49%" alt="PROJET_2"/></a>
+  <a href="https://seal-beta-liart.vercel.app"><img src="./assets/project-1.svg?v=3" width="49%" alt="SEAL — monitoring SSL/TLS"/></a>
+  <a href="https://github.com/noshiubito/PROJET_2"><img src="./assets/project-2.svg?v=3" width="49%" alt="PROJET_2"/></a>
 </p>
 
 <br>
