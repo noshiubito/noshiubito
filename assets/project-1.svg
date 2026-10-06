@@ -7,10 +7,10 @@
 <rect x="1" y="1" width="588" height="228" rx="18" fill="#0b0f15" stroke="#222a36" stroke-width="2"/>
 <g font-family="'Inter','Segoe UI','Helvetica Neue',Arial,sans-serif" class="in">
  <text x="32" y="48" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="4" fill="#8fb4d9">PROJET 01</text>
- <text x="558" y="48" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#6b7686">● en cours</text>
- <text x="32" y="88" font-size="28" font-weight="800" fill="#e6ebf2">PROJET_1</text>
- <text x="32" y="124" font-size="16" fill="#9aa3b2">Problème résolu et résultat obtenu, en une ou deux</text><text x="32" y="148" font-size="16" fill="#9aa3b2">phrases courtes.</text>
- <rect x="32" y="176" width="68" height="26" rx="13" fill="none" stroke="#2c3646"/><text x="66" y="193" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#cbd2dc">Python</text><rect x="108" y="176" width="68" height="26" rx="13" fill="none" stroke="#2c3646"/><text x="141" y="193" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#cbd2dc">Docker</text>
+ <text x="558" y="48" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#6b7686">● en ligne</text>
+ <text x="32" y="88" font-size="28" font-weight="800" fill="#e6ebf2">SEAL</text>
+ <text x="32" y="124" font-size="16" fill="#9aa3b2">Monitoring SSL/TLS : alerte sur l&#x27;expiration des</text><text x="32" y="148" font-size="16" fill="#9aa3b2">certificats (safe · warning · critical).</text>
+ <rect x="32" y="176" width="76" height="26" rx="13" fill="none" stroke="#2c3646"/><text x="70" y="193" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#cbd2dc">SSL/TLS</text><rect x="116" y="176" width="68" height="26" rx="13" fill="none" stroke="#2c3646"/><text x="150" y="193" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#cbd2dc">Vercel</text>
 </g>
 <polygon points="558.1,99.0 546.0,106.0 533.9,99.0 533.9,85.0 546.0,78.0 558.1,85.0" fill="none" stroke="#3a4454" stroke-width="1.5"/>
 <polygon points="550.3,94.5 546.0,97.0 541.7,94.5 541.7,89.5 546.0,87.0 550.3,89.5" fill="#8fb4d9"/>

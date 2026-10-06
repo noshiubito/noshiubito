@@ -9,7 +9,7 @@
  <text x="32" y="48" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="4" fill="#8fb4d9">PROJET 02</text>
  <text x="558" y="48" text-anchor="end" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#6b7686">● terminé</text>
  <text x="32" y="88" font-size="28" font-weight="800" fill="#e6ebf2">PROJET_2</text>
- <text x="32" y="124" font-size="16" fill="#9aa3b2">Problème résolu et résultat obtenu, en une ou deux</text><text x="32" y="148" font-size="16" fill="#9aa3b2">phrases courtes.</text>
+ <text x="32" y="124" font-size="16" fill="#9aa3b2">Problème résolu et résultat obtenu, en une ou deux phrases</text><text x="32" y="148" font-size="16" fill="#9aa3b2">courtes.</text>
  <rect x="32" y="176" width="50" height="26" rx="13" fill="none" stroke="#2c3646"/><text x="57" y="193" text-anchor="middle" font-family="'JetBrains Mono','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="12" fill="#cbd2dc">Bash</text>
 </g>
 <polygon points="558.1,99.0 546.0,106.0 533.9,99.0 533.9,85.0 546.0,78.0 558.1,85.0" fill="none" stroke="#3a4454" stroke-width="1.5"/>

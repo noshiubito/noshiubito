@@ -20,8 +20,8 @@ CONFIG = {
         ("8080/tcp", "automation", "python · bash · powershell"),
     ],
     "projects": [
-        {"name": "PROJET_1", "desc": "Problème résolu et résultat obtenu, en une ou deux phrases courtes.",
-         "stack": ["Python", "Docker"], "status": "en cours"},
+        {"name": "SEAL", "desc": "Monitoring SSL/TLS : alerte sur l'expiration des certificats (safe · warning · critical).",
+         "stack": ["SSL/TLS", "Vercel"], "status": "en ligne"},
         {"name": "PROJET_2", "desc": "Problème résolu et résultat obtenu, en une ou deux phrases courtes.",
          "stack": ["Bash"], "status": "terminé"},
     ],
@@ -109,7 +109,7 @@ def hero(c):
 
 def project(p, i):
     W, H = 590, 230
-    lines = wrap(p["desc"], 52)[:3]
+    lines = wrap(p["desc"], 58)[:2]
     desc = "".join(f'<text x="32" y="{124 + 24 * k}" font-size="16" fill="{SOFT}">{E(l)}</text>' for k, l in enumerate(lines))
     x, pills = 32, ""
     for t in p["stack"]:
