@@ -1,180 +1,175 @@
 <a id="top"></a>
 
-<!-- ===== BANNIÈRE (nuit · torii · sakura) ===== -->
+<!-- ===== TITRE (style manga, s'adapte au thème clair/sombre) ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,55:bc002d,100:ffb7c5&height=210&section=header&text=Mayron&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Cybersecurity%20Engineering%20Student%20%C2%B7%20Bac%2B5&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="banner"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bangers&size=72&duration=1800&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&height=100&repeat=false&lines=MAYRON"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=72&duration=1800&pause=99999&color=000000&center=true&vCenter=true&width=500&height=100&repeat=false&lines=MAYRON" alt="MAYRON"/>
+  </picture>
 </p>
 
-<!-- ===== TEXTE ANIMÉ ===== -->
+<!-- ===== NARRATION ANIMÉE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1300&color=FF6B8B&center=true&vCenter=true&width=600&lines=%C3%89l%C3%A8ve+ing%C3%A9nieur+en+cybers%C3%A9curit%C3%A9+(Bac%2B5);Pentest+%C2%B7+Blue+Team+%C2%B7+Automatisation;Passionn%C3%A9+par+le+Japon;Bas%C3%A9+%C3%A0+Aix-en-Provence" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=24&pause=1400&color=808080&center=true&vCenter=true&width=700&lines=ARC+ACTUEL+%3A+CYCLE+ING%C3%89NIEUR+CYBERS%C3%89CURIT%C3%89+(BAC%2B5);POUVOIRS+%3A+PENTEST+%C2%B7+BLUE+TEAM+%C2%B7+AUTOMATISATION;BASE+%3A+AIX-EN-PROVENCE;%C3%80+SUIVRE..." alt="narration"/>
 </p>
 
 <!-- ===== CONTACTS ===== -->
 <p align="center">
-  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=FF6B8B"/></a>
-  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF6B8B"/></a>
-  <a href="https://tryhackme.com/p/USER"><img src="https://img.shields.io/badge/TryHackMe-1a1a2e?style=for-the-badge&logo=tryhackme&logoColor=FF6B8B"/></a>
-  <a href="https://USER.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=githubpages&logoColor=FF6B8B"/></a>
+  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tryhackme.com/p/USER"><img src="https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
+  <a href="https://USER.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
 </p>
 
-<!-- ===== NAVIGATION ===== -->
+<!-- ===== SOMMAIRE ===== -->
 <p align="center">
-  <a href="#apropos"><img src="https://img.shields.io/badge/À_propos-bc002d?style=flat-square"/></a>
-  <a href="#parcours"><img src="https://img.shields.io/badge/Parcours-bc002d?style=flat-square"/></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/Stack-bc002d?style=flat-square"/></a>
-  <a href="#projets"><img src="https://img.shields.io/badge/Projets-bc002d?style=flat-square"/></a>
-  <a href="#activite"><img src="https://img.shields.io/badge/Activité-bc002d?style=flat-square"/></a>
-  <img src="https://komarev.com/ghpvc/?username=USER&color=ff6b8b&style=flat-square&label=Vues" alt="views"/>
+  <a href="#ch1"><img src="https://img.shields.io/badge/CH.1-Personnage-000000?style=flat-square&labelColor=ffffff"/></a>
+  <a href="#ch2"><img src="https://img.shields.io/badge/CH.2-Parcours-000000?style=flat-square&labelColor=ffffff"/></a>
+  <a href="#ch3"><img src="https://img.shields.io/badge/CH.3-Arsenal-000000?style=flat-square&labelColor=ffffff"/></a>
+  <a href="#ch4"><img src="https://img.shields.io/badge/CH.4-Missions-000000?style=flat-square&labelColor=ffffff"/></a>
+  <a href="#ch5"><img src="https://img.shields.io/badge/CH.5-Activité-000000?style=flat-square&labelColor=ffffff"/></a>
+  <img src="https://komarev.com/ghpvc/?username=USER&color=000000&style=flat-square&label=Lecteurs" alt="views"/>
 </p>
 
-<!-- séparateur -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
+---
 
-<a id="apropos"></a>
+<a id="ch1"></a>
 
-## 🌸 À propos
+## 📖 Chapitre 1 — Fiche personnage
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
-- 🎓 Cycle ingénieur **cybersécurité** (Bac+5) — ESAIP
-- 💼 Alternance : _[entreprise / poste]_
-- 🔭 En cours : _[projet principal]_
-- 🌱 J'apprends : _[pentest AD, cloud security, SOC…]_
-- 🗾 Passionné par le **Japon** : _[culture, langue, voyages…]_
-- 📍 Aix-en-Provence, France
+| | |
+|---|---|
+| **Nom** | Mayron |
+| **Classe** | Ingénieur cybersécurité |
+| **Niveau** | Bac+5 — ESAIP |
+| **Guilde** | _[Entreprise d'alternance]_ |
+| **Base** | Aix-en-Provence |
+| **Spécialité** | Pentest · Blue Team · Automatisation |
+| **Quête en cours** | _[Projet principal]_ |
+| **Passion** | Japon · manga |
 
 </td>
-<td width="42%" valign="top">
+<td width="45%" valign="top">
 
-```yaml
-mayron:
-  role: "Cybersecurity Engineering Student"
-  level: "Bac+5"
-  location: "Aix-en-Provence"
-  focus: ["Pentest", "Blue Team", "Automation"]
-  passion: "Japon"
-```
+**⚡ Stats du personnage**
+
+| Stat | Niveau |
+|---|---|
+| Python | ![](https://geps.dev/progress/80) |
+| Linux | ![](https://geps.dev/progress/75) |
+| Pentest web | ![](https://geps.dev/progress/60) |
+| Active Directory | ![](https://geps.dev/progress/50) |
+
+<sub>Niveaux à ajuster honnêtement.</sub>
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
+> 💬 **Mayron :** « _[Ta phrase d'accroche / devise — ex. « Comprendre le système pour mieux le protéger. »]_ »
 
-<a id="parcours"></a>
+---
 
-## ⛩️ Parcours
+<a id="ch2"></a>
+
+## 📖 Chapitre 2 — L'arc du parcours
 
 ```mermaid
 flowchart LR
-    A["🎓 [Formation précédente]"] --> B["🏫 ESAIP<br/>Cycle ingénieur"]
-    B --> C["🔐 Spécialisation<br/>Cybersécurité"]
-    C --> D["💼 Alternance<br/>[Entreprise]"]
-    D --> E["🎯 Diplôme<br/>[Année]"]
+    A["Ép. 1<br/>[Formation précédente]"] --> B["Ép. 2<br/>ESAIP — Cycle ingénieur"]
+    B --> C["Ép. 3<br/>Spécialisation cyber"]
+    C --> D["Ép. 4<br/>Alternance — [Entreprise]"]
+    D --> E["Arc final<br/>Diplôme [Année]"]
 
-    classDef step fill:#1a1a2e,stroke:#ff6b8b,stroke-width:2px,color:#ffffff;
-    classDef goal fill:#bc002d,stroke:#ffb7c5,stroke-width:2px,color:#ffffff;
-    class A,B,C,D step;
-    class E goal;
+    classDef ep fill:#000000,stroke:#ffffff,stroke-width:3px,color:#ffffff;
+    classDef final fill:#ffffff,stroke:#000000,stroke-width:4px,color:#000000;
+    class A,B,C,D ep;
+    class E final;
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
+---
 
-<a id="stack"></a>
+<a id="ch3"></a>
 
-## 🛠️ Stack
+## 📖 Chapitre 3 — Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,bash,powershell,js,c,linux,windows,docker,git,github,vscode&perline=11" alt="stack"/>
 </p>
 
 <details>
-<summary><b>🔐 Outils sécurité — cliquer pour déplier</b></summary>
+<summary><b>🗡️ Armes de sécurité — cliquer pour dégainer</b></summary>
 <br>
 
-| Domaine | Outils |
+| Technique | Outils |
 |---|---|
 | **Reconnaissance** | Nmap · _[…]_ |
-| **Web** | Burp Suite · _[…]_ |
+| **Attaque web** | Burp Suite · _[…]_ |
 | **Exploitation** | Metasploit · _[…]_ |
-| **Réseau / forensic** | Wireshark · _[…]_ |
+| **Analyse réseau** | Wireshark · _[…]_ |
 | **Défense / SOC** | _[SIEM, EDR…]_ |
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-1a1a2e?style=for-the-badge&logo=kalilinux&logoColor=FF6B8B"/>
-  <img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&logoColor=FF6B8B"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&logo=burpsuite&logoColor=FF6B8B"/>
-  <img src="https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&logoColor=FF6B8B"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"/>
 </p>
 
 </details>
 
-<details>
-<summary><b>📚 Compétences par niveau — cliquer pour déplier</b></summary>
-<br>
+---
 
-| Compétence | Niveau |
-|---|---|
-| Python / scripting | ![](https://geps.dev/progress/80) |
-| Linux / administration | ![](https://geps.dev/progress/75) |
-| Pentest web | ![](https://geps.dev/progress/60) |
-| Active Directory | ![](https://geps.dev/progress/50) |
+<a id="ch4"></a>
 
-<sub>Niveaux à ajuster honnêtement.</sub>
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
-
-<a id="projets"></a>
-
-## 🏯 Projets
+## 📖 Chapitre 4 — Missions accomplies
 
 <p align="center">
-  <a href="https://github.com/USER/PROJET_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_1&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10" width="49%"/></a>
-  <a href="https://github.com/USER/PROJET_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_2&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10" width="49%"/></a>
+  <a href="https://github.com/USER/PROJET_1"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_1&bg_color=00000000&title_color=808080&icon_color=808080&text_color=808080&border_color=808080&border_radius=0" width="49%"/></a>
+  <a href="https://github.com/USER/PROJET_2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=USER&repo=PROJET_2&bg_color=00000000&title_color=808080&icon_color=808080&text_color=808080&border_color=808080&border_radius=0" width="49%"/></a>
 </p>
 
 <details>
-<summary><b>🔎 Détails des projets</b></summary>
+<summary><b>🔎 Rapport de mission</b></summary>
 <br>
 
-**PROJET_1** — _Problème · solution · résultat chiffré._
+**Mission 1 — PROJET_1** · _Problème · solution · résultat chiffré._
 `Python` `Docker`
 
-**PROJET_2** — _Problème · solution · résultat chiffré._
+**Mission 2 — PROJET_2** · _Problème · solution · résultat chiffré._
 `…`
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
+---
 
-<a id="activite"></a>
+<a id="ch5"></a>
 
-## 📊 Activité
+## 📖 Chapitre 5 — Activité
 
 <details>
 <summary><b>📈 Statistiques détaillées</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&bg_color=1a1a2e&title_color=ff6b8b&icon_color=ffb7c5&text_color=e6e6e6&hide_border=true&border_radius=10&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER&layout=compact&bg_color=1a1a2e&title_color=ff6b8b&text_color=e6e6e6&hide_border=true&border_radius=10" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=USER&show_icons=true&bg_color=00000000&title_color=808080&icon_color=808080&text_color=808080&border_color=808080&border_radius=0&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USER&layout=compact&bg_color=00000000&title_color=808080&text_color=808080&border_color=808080&border_radius=0" height="165"/>
 </p>
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:bc002d,100:ffb7c5&height=3" width="100%"/>
+---
 
-<!-- ===== FIN : signature animée + contact ===== -->
+<!-- ===== FIN DE CHAPITRE ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=FFB7C5&center=true&vCenter=true&width=520&lines=Merci+pour+la+visite+%F0%9F%8C%B8;Ouvert+aux+%C3%A9changes+et+opportunit%C3%A9s;Restons+en+contact+%E2%86%93" alt="outro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Bangers&size=28&pause=1500&color=808080&center=true&vCenter=true&width=600&lines=FIN+DU+CHAPITRE;LA+SUITE+AU+PROCHAIN+COMMIT..." alt="outro"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/Me_contacter-bc002d?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#top"><img src="https://img.shields.io/badge/↑_Haut_de_page-1a1a2e?style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/USER"><img src="https://img.shields.io/badge/Me_contacter-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#top"><img src="https://img.shields.io/badge/↑_Retour_au_début-ffffff?style=for-the-badge"/></a>
 </p>
