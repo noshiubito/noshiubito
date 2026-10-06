@@ -2,8 +2,6 @@
   <img src="./assets/hero.svg" width="100%" alt="Mayron — élève ingénieur cybersécurité"/>
 </p>
 
-> **⬡ Pourquoi l'hexagone ?** Le _kikkō_, motif de carapace de tortue des blasons japonais, symbolise la protection et la longévité. Exactement ce qu'on attend d'un système bien sécurisé.
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mayron-bejjaj/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
   <a href="https://tryhackme.com/p/noshiubito"><b>TryHackMe</b></a>
